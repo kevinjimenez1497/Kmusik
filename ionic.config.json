@@ -1,0 +1,7 @@
+{
+  "name": "Kmusik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
